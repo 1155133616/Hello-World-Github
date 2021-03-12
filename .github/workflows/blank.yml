@@ -9,7 +9,7 @@ jobs:
 		- name: Print a greeting
 		  env:
 			MY_VAR: Hi there! My name is
-			FIRST_NAME: Tsz Chung
+			IRST_NAME: Tsz Chung
 			MIDDLE_NAME: 
 			LAST_NAME: Lo
 		  run: |
